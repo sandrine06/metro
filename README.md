@@ -8,4 +8,4 @@ Github workshop at the Metropolitan Library Council
       
 Now we are going to create a branch
 
-New branch
+editing the doc from github desktop
